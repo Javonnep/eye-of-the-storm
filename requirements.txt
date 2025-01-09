@@ -1,0 +1,13 @@
+jupyter
+matplotlib
+Pillow
+tensorflow
+tensorflow-hub
+torch
+torchvision
+livelossplot==0.5.4
+flake8
+pytest
+scikit-learn
+pandas
+
