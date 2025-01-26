@@ -24,5 +24,3 @@ Future Work
 - Try to find mutli-channel input data rather than using more than just Image data (I.e. a model that takes as input image data and previous wind speed) 
 
   
-
-**Note that this is my contribution to a university project. For my contribution I received a Distinction.**
